@@ -1,0 +1,14 @@
+C:\Users\ganna\Documents\dotnet_pj\bin\Debug\net8.0\dotnet_pj.exe
+C:\Users\ganna\Documents\dotnet_pj\bin\Debug\net8.0\dotnet_pj.deps.json
+C:\Users\ganna\Documents\dotnet_pj\bin\Debug\net8.0\dotnet_pj.runtimeconfig.json
+C:\Users\ganna\Documents\dotnet_pj\bin\Debug\net8.0\dotnet_pj.dll
+C:\Users\ganna\Documents\dotnet_pj\bin\Debug\net8.0\dotnet_pj.pdb
+C:\Users\ganna\Documents\dotnet_pj\obj\Debug\net8.0\dotnet_pj.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ganna\Documents\dotnet_pj\obj\Debug\net8.0\dotnet_pj.AssemblyInfoInputs.cache
+C:\Users\ganna\Documents\dotnet_pj\obj\Debug\net8.0\dotnet_pj.AssemblyInfo.cs
+C:\Users\ganna\Documents\dotnet_pj\obj\Debug\net8.0\dotnet_pj.csproj.CoreCompileInputs.cache
+C:\Users\ganna\Documents\dotnet_pj\obj\Debug\net8.0\dotnet_pj.dll
+C:\Users\ganna\Documents\dotnet_pj\obj\Debug\net8.0\refint\dotnet_pj.dll
+C:\Users\ganna\Documents\dotnet_pj\obj\Debug\net8.0\dotnet_pj.pdb
+C:\Users\ganna\Documents\dotnet_pj\obj\Debug\net8.0\dotnet_pj.genruntimeconfig.cache
+C:\Users\ganna\Documents\dotnet_pj\obj\Debug\net8.0\ref\dotnet_pj.dll
